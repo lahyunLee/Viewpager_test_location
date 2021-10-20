@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/activity_inputtest.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/activity_main_viewpager.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/fragment_a.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/fragment_b.xml" value="0.3546875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/fragment_c.xml" value="0.3546875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test/app/src/main/res/layout/fragment_d.xml" value="0.3546875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test3/app/src/main/res/layout/activity_main.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Viewpager_test3/app/src/main/res/layout/activity_maps.xml" value="0.24010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

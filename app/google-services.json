@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312972994925",
+    "project_id": "resounding-sled-328707",
+    "storage_bucket": "resounding-sled-328707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312972994925:android:34f8683bcf910d95fa1264",
+        "android_client_info": {
+          "package_name": "com.example.viewpager_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312972994925-9va6p0lkt1lf7gn4hmufc2al5f75h6m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFjVrqSMmNpE1Y8jh30dqpPEQ9B2gHDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312972994925-9va6p0lkt1lf7gn4hmufc2al5f75h6m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
